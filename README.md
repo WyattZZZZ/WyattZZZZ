@@ -46,7 +46,7 @@
  <code><img title="GitHub" height="25" src="images/github.svg"></code>
  <code><img title="Docker" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
  <code><img title="Linux" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
- <code><img title="ROS2" height="25" src="https://raw.githubusercontent.com/ros/ros_logo/master/ros_logo.png"></code>
+ <code><img title="ROS2" height="25" src="https://docs.ros.org/svgs/logo-header.svg"></code>
  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
  <code><img title="npm" height="25" src="images/npm.svg"></code>
  <code><img title="JSON" height="25" src="images/json.svg"></code>
