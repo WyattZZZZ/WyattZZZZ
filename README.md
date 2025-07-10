@@ -31,28 +31,22 @@
  <code><img title="Java" height="25" src="images/java-original.svg"></code>
  <code><img title="TypeScript" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
- 
  <code><img title="PyTorch" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"></code>
  <code><img title="scikit-learn" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"></code>
  <code><img title="Pandas" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"></code>
  <code><img title="NumPy" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"></code>
  <code><img title="Jupyter" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"></code>
- <code><img title="Reinforcement Learning" height="25" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-reinforcement-learning-artificial-intelligence-flaticons-lineal-color-flat-icons.png"></code>
- 
  <code><img title="FastAPI" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"></code>
  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
  <code><img title="React" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
  <code><img title="Vue.js" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
  <code><img title="Gradio" height="25" src="https://avatars.githubusercontent.com/u/51063788?s=200&v=4"></code>
- 
  <code><img title="Git" height="25" src="images/git-original.svg"></code>
  <code><img title="GitHub" height="25" src="images/github.svg"></code>
  <code><img title="Docker" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
  <code><img title="Linux" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
  <code><img title="ROS2" height="25" src="https://raw.githubusercontent.com/ros-infrastructure/ros2_documentation/foxy/source/_static/ros2-logo.png"></code>
- <code><img title="PointCloud" height="25" src="https://img.icons8.com/ios-filled/50/000000/point-cloud.png"></code>
- 
  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
  <code><img title="npm" height="25" src="images/npm.svg"></code>
  <code><img title="JSON" height="25" src="images/json.svg"></code>
