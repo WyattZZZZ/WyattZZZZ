@@ -5,8 +5,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/wyattzhang/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/wyattzhang/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/ziye-zhang-92395131b/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 </h5>
 <br>
 <p align="center">
@@ -15,7 +14,7 @@
   <br>
   🔬 I'm currently studying for my bachelor in Rutegrs University
   <br>
-  💻 I love do some research in Embodied AI and maybe some software development
+  💻 I love doing some research in Embodied AI and maybe some software development
   <br>
   📫 How to reach me: <a href="mailto: wyatt.zhang1321@gmail.com">wyatt.zhang1321@gmail.com</a>
 </p>
