@@ -58,7 +58,7 @@
 <p align=center>
   <div style="display: flex;">
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=WyattZZZZ&show_icons=true&theme=react&border_color=61dafb" />
+      <img align="left" width=390 height=280 src="https://github-readme-stats.vercel.app/api?username=WyattZZZZ&show_icons=true&theme=react&border_color=61dafb" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=390 height=280 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WyattZZZZ&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
