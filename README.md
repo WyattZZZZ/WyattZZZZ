@@ -65,9 +65,9 @@
 
 <hr>
 
-<h4 align="center">
+<h2 align="center">
   <a href="https://github.com/WyattZZZZ?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+</h2>
 
 
 <!--
