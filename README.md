@@ -61,7 +61,6 @@
       <img align="left" width=390 src="https://streak-stats.demolab.com?user=WyattZZZZ&theme=react" alt="Wyatt" />
     </a>
   </div>
-  <br>
 </p>
 
 <hr>
