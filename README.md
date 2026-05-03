@@ -15,9 +15,17 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterhstokun.vercel.app/api?username=WyattZZZZ&show_icons=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WyattZZZZ&theme=2178" alt="WyattZZZZ Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WyattZZZZ&theme=github-dark&hide_border=true&area=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WyattZZZZ&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
   
-  <img height="180em" src="https://github-readme-stats-git-masterhstokun.vercel.app/api/top-langs/?username=WyattZZZZ&layout=compact&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true&langs_count=6" />
+  <img src="https://streak-stats.demolab.com/?user=WyattZZZZ&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 
 <p align="center">
