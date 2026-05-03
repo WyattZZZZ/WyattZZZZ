@@ -4,23 +4,16 @@
   </a>
 </h1>
 
-<!--
-**zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📊 GitHub Metrics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WyattZZZZ&show_icons=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WyattZZZZ&layout=compact&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true&langs_count=6" />
+</p>
 
-
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
-
-![Metrics](https://metrics.lecoq.io/zumrudu-anka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
-
--->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WyattZZZZ&theme=tokyonight&background=0d1117&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff" />
+</p>
