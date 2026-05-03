@@ -23,7 +23,3 @@
   
   <img src="https://streak-stats.demolab.com/?user=WyattZZZZ&theme=tokyonight&hide_border=true" height="180em" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WyattZZZZ&theme=tokyonight&background=0d1117&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff" />
-</p>
