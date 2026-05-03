@@ -18,8 +18,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WyattZZZZ&theme=github-dark&hide_border=true&area=true" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WyattZZZZ&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
-  
-  <img src="https://streak-stats.demolab.com/?user=WyattZZZZ&theme=tokyonight&hide_border=true" height="180em" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WyattZZZZ&layout=compact&theme=tokyonight&hide_border=true" width="400px" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com/?user=WyattZZZZ&theme=tokyonight&hide_border=true" width="400px" />
+      </td>
+    </tr>
+  </table>
+</div>
